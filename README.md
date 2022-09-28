@@ -13,7 +13,7 @@ Determinare i tipi di tabelle
 
 Riportare poi le tabelle e popolare con dei dati dummy.
 
-I clienti devono poter essere filtrati per
+I clienti devono poter essere filtrati per:
 
 Provincia
 Regione
