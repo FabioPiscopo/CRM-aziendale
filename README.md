@@ -1,8 +1,6 @@
 # CRM-aziendale
-Homework 3
 Creare un CRM aziendale.
 
- 
 
 Mappare il data model
 
